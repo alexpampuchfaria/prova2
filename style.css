@@ -17,7 +17,7 @@ p{
     font-size: 30px;
 }
 div{
-    padding:20px;
+    padding:px;
 }
 h3{
     font-size: 50px;
@@ -25,7 +25,7 @@ h3{
 }
 hr{
 
-  padding: 20pxpx;
+  padding: 20px;
 }
 header{
     background-color: lightseagreen;
@@ -35,4 +35,14 @@ footer{
     background-color: lightseagreen;
     padding:50px 50px 50px;
     text-align: center;
+}
+.requisitos{
+    padding:50px 20px 50px;
+    color: rgb(255, 255, 255);
+}
+.invalido{
+    color: red;
+}
+.valido{
+    color: blue;
 }
